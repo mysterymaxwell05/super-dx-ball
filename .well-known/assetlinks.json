@@ -1,0 +1,1 @@
+[{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "io.github.mysterymaxwell05.superdxball", "sha256_cert_fingerprints": ["A1:CD:27:F8:97:44:5B:3F:83:11:E8:43:BC:6F:57:0D:41:3B:CD:A4:F6:C8:7C:EB:EF:52:E3:F0:83:3F:03:DC"]}}]
